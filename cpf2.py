@@ -1,3 +1,4 @@
+#Viviane Carvalho da Silva 20261014050024
 # Cálculo do 11º número do CPF
 
 cpf = input("Digite os 10 primeiros números do CPF: ")
