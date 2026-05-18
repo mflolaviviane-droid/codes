@@ -1,4 +1,5 @@
- Verificador de CPF - Primeiro dígito
+#Viviane Carvalho da Silva 20261014050024
+#Verificador de CPF - Primeiro dígito
 
 cpf = int(input("Digite os 9 primeiros números do CPF: "))
 
